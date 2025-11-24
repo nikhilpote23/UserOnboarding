@@ -68,3 +68,10 @@ Main entry points:
   "mirrorUserName": "existing.user@example.com"
 }
 
+### CloneResponse (output)
+{
+  "mirrorUserId": "005xxxxxxxxxxxx",
+  "newUserId": "005yyyyyyyyyyyy",
+  "status": "SUCCESS" | "ERROR",
+  "message": "User cloned." | "Error message"
+}
