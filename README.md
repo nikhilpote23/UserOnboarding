@@ -113,6 +113,7 @@ Example Error Response
   "message": "Mirror user not found for: foo@bar.com"
 }
 
+---
 ## Flow Usage
 
 You can call the cloneUserInvocable method from Flow:
