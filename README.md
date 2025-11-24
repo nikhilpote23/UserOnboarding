@@ -1,6 +1,3 @@
-Below is a clean, professionally formatted, GitHub-ready `README.md` — structured, styled, and easy to copy/paste.
-Everything has been reorganized for clarity, navigation, and open-source readiness.
-
 ---
 
 # **UserOnboarding**
